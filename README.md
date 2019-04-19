@@ -1,2 +1,1 @@
-# intro-machine-learning-r
-Introdução ao Machine Learning em R
+# Introdução ao _Machine Learning_ em R
